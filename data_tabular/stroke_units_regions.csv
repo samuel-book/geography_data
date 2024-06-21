@@ -1,0 +1,142 @@
+Postcode,Hospital_name,Use_IVT,Use_MT,Use_MSU,LSOA11NM,LHB20NM,LHB20NMW,LOC22NM,ICB22NM,ISDN
+RM70AG,RM70AG,1,1,1,Havering 017C,,,NHS North East London ICB - A3A8R,NHS North East London Integrated Care Board,London
+E11BB,E11BB,1,1,1,Tower Hamlets 017A,,,NHS North East London ICB - A3A8R,NHS North East London Integrated Care Board,London
+SW66SX,SW66SX,1,1,1,Hammersmith and Fulham 022C,,,NHS North West London ICB - W2U3Z,NHS North West London Integrated Care Board,London
+SE59RW,SE59RW,1,1,1,Lambeth 014C,,,NHS South East London ICB - 72Q,NHS South East London Integrated Care Board,London
+BR68ND,BR68ND,1,0,0,Bromley 036C,,,NHS South East London ICB - 72Q,NHS South East London Integrated Care Board,London
+HA13UJ,HA13UJ,1,0,0,Brent 008D,,,NHS North West London ICB - W2U3Z,NHS North West London Integrated Care Board,London
+SW170QT,SW170QT,1,1,1,Wandsworth 034D,,,NHS South West London ICB - 36L,NHS South West London Integrated Care Board,London
+NW12BU,NW12BU,1,1,1,Camden 026D,,,NHS North Central London ICB - 93C,NHS North Central London Integrated Care Board,London
+DE223NE,DE223NE,1,0,0,Derby 017C,,,NHS Derby and Derbyshire ICB - 15M,NHS Derby and Derbyshire Integrated Care Board,East Midlands
+NN15BD,NN15BD,1,0,0,Northampton 025A,,,NHS Northamptonshire ICB - 78H,NHS Northamptonshire Integrated Care Board,East Midlands
+NG72UH,NG72UH,1,1,1,Nottingham 031I,,,NHS Nottingham and Nottinghamshire ICB - 52R,NHS Nottingham and Nottinghamshire Integrated Care Board,East Midlands
+NG51PB,NG51PB,0,0,0,,,,,,
+NG174JL,NG174JL,1,0,0,Ashfield 004E,,,NHS Nottingham and Nottinghamshire ICB - 52R,NHS Nottingham and Nottinghamshire Integrated Care Board,East Midlands
+LN25QY,LN25QY,1,0,0,Lincoln 003A,,,NHS Lincolnshire ICB - 71E,NHS Lincolnshire Integrated Care Board,East Midlands
+PE219QS,PE219QS,0,0,0,,,,,,
+LE15WW,LE15WW,1,0,0,Leicester 040B,,,"NHS Leicester, Leicestershire and Rutland ICB - 04C","NHS Leicester, Leicestershire and Rutland Integrated Care Board",East Midlands
+SS165NL,SS165NL,1,0,0,Basildon 020D,,,NHS Mid and South Essex ICB - 99E,NHS Mid and South Essex Integrated Care Board,East of England (South)
+MK429DJ,MK429DJ,0,0,0,,,,,,
+CB20QQ,CB20QQ,1,1,1,Cambridge 013D,,,NHS Cambridgeshire and Peterborough ICB - 06H,NHS Cambridgeshire and Peterborough Integrated Care Board,East of England (South)
+CO45JL,CO45JL,1,0,0,Colchester 004D,,,NHS Suffolk and North East Essex ICB - 06T,NHS Suffolk and North East Essex Integrated Care Board,East of England (North)
+SG14AB,SG14AB,1,0,0,Stevenage 002E,,,NHS Hertfordshire and West Essex ICB - 06K,NHS Hertfordshire and West Essex Integrated Care Board,East of England (South)
+IP45PD,IP45PD,1,0,0,Ipswich 009B,,,NHS Suffolk and North East Essex ICB - 06L,NHS Suffolk and North East Essex Integrated Care Board,East of England (North)
+NR316LA,NR316LA,1,0,0,Great Yarmouth 011A,,,NHS Norfolk and Waveney ICB - 26A,NHS Norfolk and Waveney Integrated Care Board,East of England (North)
+LU40DZ,LU40DZ,1,0,0,Luton 013A,,,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",East of England (South)
+CM17ET,CM17ET,1,0,0,Chelmsford 002A,,,NHS Mid and South Essex ICB - 06Q,NHS Mid and South Essex Integrated Care Board,East of England (South)
+NR47UY,NR47UY,1,0,0,South Norfolk 002C,,,NHS Norfolk and Waveney ICB - 26A,NHS Norfolk and Waveney Integrated Care Board,East of England (North)
+PE39GZ,PE39GZ,1,0,0,Peterborough 015E,,,NHS Cambridgeshire and Peterborough ICB - 06H,NHS Cambridgeshire and Peterborough Integrated Care Board,East of England (South)
+PE304ET,PE304ET,1,0,0,King's Lynn and West Norfolk 010D,,,NHS Norfolk and Waveney ICB - 26A,NHS Norfolk and Waveney Integrated Care Board,East of England (North)
+SS00RY,SS00RY,1,0,0,Southend-on-Sea 004D,,,NHS Mid and South Essex ICB - 99G,NHS Mid and South Essex Integrated Care Board,East of England (South)
+WD180HB,WD180HB,1,0,0,Watford 010C,,,NHS Hertfordshire and West Essex ICB - 06N,NHS Hertfordshire and West Essex Integrated Care Board,East of England (South)
+IP332QZ,IP332QZ,1,0,0,St Edmundsbury 009B,,,NHS Suffolk and North East Essex ICB - 07K,NHS Suffolk and North East Essex Integrated Care Board,East of England (North)
+DE130RB,DE130RB,0,0,0,,,,,,
+DY12HQ,DY12HQ,1,0,0,Dudley 013D,,,NHS Black Country ICB - D2P2L,NHS Black Country Integrated Care Board,North Midlands
+CV107DJ,CV107DJ,0,0,0,,,,,,
+B95SS,B95SS,0,0,0,,,,,,
+WV100QP,WV100QP,1,0,0,Wolverhampton 015E,,,NHS Black Country ICB - D2P2L,NHS Black Country Integrated Care Board,North Midlands
+B714HJ,B714HJ,1,0,0,Sandwell 017E,,,NHS Black Country ICB - D2P2L,NHS Black Country Integrated Care Board,North Midlands
+TF16TF,TF16TF,1,0,0,Telford and Wrekin 007A,,,"NHS Shropshire, Telford and Wrekin ICB - M2L0M","NHS Shropshire, Telford and Wrekin Integrated Care Board",North Midlands
+CV345BW,CV345BW,0,0,0,Warwick 011C,,,NHS Coventry and Warwickshire ICB - B2M3M,NHS Coventry and Warwickshire Integrated Care Board,West Midlands
+B152TH,B152TH,1,1,1,Birmingham 087F,,,NHS Birmingham and Solihull ICB - 15E,NHS Birmingham and Solihull Integrated Care Board,West Midlands
+CV22DX,CV22DX,1,1,1,Coventry 019A,,,NHS Coventry and Warwickshire ICB - B2M3M,NHS Coventry and Warwickshire Integrated Care Board,West Midlands
+ST46QG,ST46QG,1,1,1,Stoke-on-Trent 018F,,,NHS Staffordshire and Stoke-on-Trent ICB - 05W,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands
+WS29PS,WS29PS,0,0,0,,,,,,
+WR51DD,WR51DD,1,0,0,Worcester 010D,,,NHS Herefordshire and Worcestershire ICB - 18C,NHS Herefordshire and Worcestershire Integrated Care Board,West Midlands
+HR12ER,HR12ER,1,0,0,Herefordshire 012D,,,NHS Herefordshire and Worcestershire ICB - 18C,NHS Herefordshire and Worcestershire Integrated Care Board,West Midlands
+L97AL,L97AL,1,1,1,Liverpool 005A,,,NHS Cheshire and Merseyside ICB - 99A,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside
+CH21UL,CH21UL,1,0,0,Cheshire West and Chester 028F,,,NHS Cheshire and Merseyside ICB - 27D,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside
+CW14QJ,CW14QJ,1,0,0,Cheshire East 049B,,,NHS Cheshire and Merseyside ICB - 27D,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside
+L78XP,L78XP,0,0,0,Liverpool 031B,,,NHS Cheshire and Merseyside ICB - 99A,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside
+PR86PN,PR86PN,0,0,0,,,,,,
+L355DR,L355DR,1,0,0,Knowsley 009E,,,NHS Cheshire and Merseyside ICB - 01J,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside
+WA51QG,WA51QG,0,0,0,,,,,,
+CH495PE,CH495PE,1,0,0,Wirral 025B,,,NHS Cheshire and Merseyside ICB - 12F,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside
+FY38NR,FY38NR,1,0,0,Blackpool 009F,,,NHS Lancashire and South Cumbria ICB - 00R,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria
+BB23HH,BB23HH,1,0,0,Blackburn with Darwen 011F,,,NHS Lancashire and South Cumbria ICB - 00Q,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria
+PR29HT,PR29HT,1,1,1,Preston 004D,,,NHS Lancashire and South Cumbria ICB - 01E,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria
+BL97TD,BL97TD,1,0,0,Bury 007A,,,NHS Greater Manchester ICB - 00V,NHS Greater Manchester Integrated Care Board,Greater Manchester
+M68HD,M68HD,1,1,1,Salford 021C,,,NHS Greater Manchester ICB - 01G,NHS Greater Manchester Integrated Care Board,Greater Manchester
+SK27JE,SK27JE,1,0,0,Stockport 027B,,,NHS Greater Manchester ICB - 01W,NHS Greater Manchester Integrated Care Board,Greater Manchester
+LA144LF,LA144LF,1,0,0,Barrow-in-Furness 003D,,,NHS Lancashire and South Cumbria ICB - 01K,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria
+LA14RP,LA14RP,1,0,0,Lancaster 014F,,,NHS Lancashire and South Cumbria ICB - 01K,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria
+SR47TP,SR47TP,1,0,0,Sunderland 011B,,,NHS North East and North Cumbria ICB - 00P,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+DH15TW,DH15TW,1,0,0,County Durham 033B,,,NHS North East and North Cumbria ICB - 84H,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+NE96SX,NE96SX,0,0,0,,,,,,
+NE14LP,NE14LP,1,1,1,Newcastle upon Tyne 024B,,,NHS North East and North Cumbria ICB - 13T,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+CA27HY,CA27HY,1,0,0,Carlisle 008A,,,NHS North East and North Cumbria ICB - 01H,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+CA288JG,CA288JG,0,0,0,,,,,,
+TS198PE,TS198PE,1,0,0,Stockton-on-Tees 009H,,,NHS North East and North Cumbria ICB - 16C,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+NE236NZ,NE236NZ,1,0,0,Northumberland 031A,,,NHS North East and North Cumbria ICB - 00L,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+TS43BW,TS43BW,1,0,0,Middlesbrough 011A,,,NHS North East and North Cumbria ICB - 16C,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria
+NE340PL,NE340PL,0,0,0,,,,,,
+S752EP,S752EP,0,0,0,,,,,,
+BD96RJ,BD96RJ,1,0,0,Bradford 037B,,,NHS West Yorkshire ICB - 36J,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate
+HX30PW,HX30PW,1,0,0,Calderdale 021C,,,NHS West Yorkshire ICB - 02T,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate
+S445BL,S445BL,1,0,0,Chesterfield 012G,,,NHS Derby and Derbyshire ICB - 15M,NHS Derby and Derbyshire Integrated Care Board,East Midlands
+DN25LT,DN25LT,1,0,0,Doncaster 018D,,,NHS South Yorkshire ICB - 02X,NHS South Yorkshire Integrated Care Board,South Yorkshire
+HG27SX,HG27SX,0,0,0,,,,,,
+HU32JZ,HU32JZ,1,1,1,Kingston upon Hull 029D,,,NHS Humber and North Yorkshire ICB - 03F,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale
+LS13EX,LS13EX,1,1,1,Leeds 111A,,,NHS West Yorkshire ICB - 15F,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate
+WF14DG,WF14DG,1,0,0,Wakefield 017A,,,NHS West Yorkshire ICB - 03R,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate
+DN157BH,DN157BH,1,0,0,North Lincolnshire 009C,,,NHS Humber and North Yorkshire ICB - 03K,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale
+S602UD,S602UD,0,0,0,,,,,,
+S102JF,S102JF,1,1,1,Sheffield 030A,,,NHS South Yorkshire ICB - 03N,NHS South Yorkshire Integrated Care Board,South Yorkshire
+YO318HE,YO318HE,1,0,0,York 009A,,,NHS Humber and North Yorkshire ICB - 03Q,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale
+KT160PZ,KT160PZ,1,0,0,Runnymede 008A,,,NHS Surrey Heartlands ICB - 92A,NHS Surrey Heartlands Integrated Care Board,Frimley ICS
+RH164EX,RH164EX,0,0,0,Mid Sussex 011E,,,NHS Sussex ICB - 70F,NHS Sussex Integrated Care Board,Sussex
+BN25BE,BN25BE,1,1,1,Brighton and Hove 031B,,,NHS Sussex ICB - 09D,NHS Sussex Integrated Care Board,Sussex
+DA28DA,DA28DA,1,0,0,Dartford 008A,,,NHS Kent and Medway ICB - 91Q,NHS Kent and Medway Integrated Care Board,Kent and Medway
+CT13NG,CT13NG,1,0,0,Canterbury 016C,,,NHS Kent and Medway ICB - 91Q,NHS Kent and Medway Integrated Care Board,Kent and Medway
+CT94AN,CT94AN,0,0,0,Thanet 004D,,,NHS Kent and Medway ICB - 91Q,NHS Kent and Medway Integrated Care Board,Kent and Medway
+TN240LZ,TN240LZ,0,0,0,Ashford 006E,,,NHS Kent and Medway ICB - 91Q,NHS Kent and Medway Integrated Care Board,Kent and Medway
+BN212UD,BN212UD,1,0,0,Eastbourne 008A,,,NHS Sussex ICB - 97R,NHS Sussex Integrated Care Board,Sussex
+KT187EG,KT187EG,1,0,0,Epsom and Ewell 008D,,,NHS Surrey Heartlands ICB - 92A,NHS Surrey Heartlands Integrated Care Board,Frimley ICS
+GU167UJ,GU167UJ,1,0,0,Surrey Heath 010C,,,NHS Frimley ICB - D4U1Y,NHS Frimley Integrated Care Board,Frimley ICS
+ME169QQ,ME169QQ,1,0,0,Maidstone 008F,,,NHS Kent and Medway ICB - 91Q,NHS Kent and Medway Integrated Care Board,Kent and Medway
+TN24QJ,TN24QJ,0,0,0,,,,,,
+ME75NY,ME75NY,0,0,0,Medway 016D,,,NHS Kent and Medway ICB - 91Q,NHS Kent and Medway Integrated Care Board,Kent and Medway
+GU27XX,GU27XX,0,0,0,,,,,,
+RH15RH,RH15RH,1,0,0,Reigate and Banstead 014C,,,NHS Surrey Heartlands ICB - 92A,NHS Surrey Heartlands Integrated Care Board,Frimley ICS
+PO196SE,PO196SE,1,0,0,Chichester 008B,,,NHS Sussex ICB - 70F,NHS Sussex Integrated Care Board,Sussex
+BN112DH,BN112DH,1,0,0,Worthing 011C,,,NHS Sussex ICB - 70F,NHS Sussex Integrated Care Board,Sussex
+GL13NN,GL13NN,1,0,0,Gloucester 002C,,,NHS Gloucestershire ICB - 11M,NHS Gloucestershire Integrated Care Board,"Gloucester, BSW, BNSSG and Somerset"
+SN36BB,SN36BB,1,0,0,Swindon 025A,,,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset"
+BS105NB,BS105NB,1,1,1,Bristol 004A,,,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset"
+EX314JB,EX314JB,1,0,0,North Devon 007C,,,NHS Devon ICB - 15N,NHS Devon Integrated Care Board,"Devon, Cornwall and Isles of Scilly"
+PL68DH,PL68DH,1,1,1,Plymouth 005C,,,NHS Devon ICB - 15N,NHS Devon Integrated Care Board,"Devon, Cornwall and Isles of Scilly"
+TR13LQ,TR13LQ,1,0,0,Cornwall 043C,,,NHS Cornwall and the Isles of Scilly ICB - 11N,NHS Cornwall and the Isles of Scilly Integrated Care Board,"Devon, Cornwall and Isles of Scilly"
+EX25DW,EX25DW,1,0,0,Exeter 013C,,,NHS Devon ICB - 15N,NHS Devon Integrated Care Board,"Devon, Cornwall and Isles of Scilly"
+BA13NG,BA13NG,1,0,0,Bath and North East Somerset 008B,,,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset"
+SP28BJ,SP28BJ,1,0,0,Wiltshire 057A,,,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G","NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset"
+TA15DA,TA15DA,1,0,0,Taunton Deane 011D,,,NHS Somerset ICB - 11X,NHS Somerset Integrated Care Board,"Gloucester, BSW, BNSSG and Somerset"
+TQ27AA,TQ27AA,1,0,0,Torbay 003C,,,NHS Devon ICB - 15N,NHS Devon Integrated Care Board,"Devon, Cornwall and Isles of Scilly"
+BS28HW,BS28HW,0,0,0,Bristol 032C,,,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset"
+BS234TQ,BS234TQ,1,0,0,North Somerset 025A,,,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C","NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset"
+BA214AT,BA214AT,1,0,0,South Somerset 014A,,,NHS Somerset ICB - 11X,NHS Somerset Integrated Care Board,"Gloucester, BSW, BNSSG and Somerset"
+HP112TT,HP112TT,1,0,0,Wycombe 015B,,,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y","NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Thames Valley
+SL24HL,SL24HL,0,0,0,,,,,,
+MK65LD,MK65LD,1,0,0,Milton Keynes 018C,,,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y","NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",East of England (South)
+OX169AL,OX169AL,0,0,0,,,,,,
+OX39DU,OX39DU,1,1,1,Oxford 006A,,,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q","NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Thames Valley
+RG15AN,RG15AN,1,0,0,Reading 014F,,,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A","NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Thames Valley
+DT12JY,DT12JY,1,0,0,West Dorset 009G,,,NHS Dorset ICB - 11J,NHS Dorset Integrated Care Board,Wessex
+SO225DG,SO225DG,1,0,0,Winchester 007C,,,NHS Hampshire and Isle of Wight ICB - D9Y0V,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex
+PO305TG,PO305TG,1,0,0,Isle of Wight 008E,,,NHS Hampshire and Isle of Wight ICB - D9Y0V,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex
+BH152JB,BH152JB,0,0,0,,,,,,
+PO63LY,PO63LY,1,0,0,Portsmouth 002A,,,NHS Hampshire and Isle of Wight ICB - 10R,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex
+BH77DW,BH77DW,1,0,0,Bournemouth 011D,,,NHS Dorset ICB - 11J,NHS Dorset Integrated Care Board,Wessex
+SO166YD,SO166YD,1,1,1,Southampton 010C,,,NHS Hampshire and Isle of Wight ICB - D9Y0V,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex
+NP448YN,NP44 8YN,1,0,0,Torfaen 013C,Aneurin Bevan University Health Board,Bwrdd Iechyd Prifysgol Aneurin Bevan,,,
+LL185UJ,LL18 5UJ,1,0,0,Denbighshire 009A,Betsi Cadwaladr University Health Board,Bwrdd Iechyd Prifysgol Betsi Cadwaladr,,,
+LL137TD,LL13 7TD,1,0,0,Wrexham 011A,Betsi Cadwaladr University Health Board,Bwrdd Iechyd Prifysgol Betsi Cadwaladr,,,
+LL572PW,LL57 2PW,1,0,0,Gwynedd 002E,Betsi Cadwaladr University Health Board,Bwrdd Iechyd Prifysgol Betsi Cadwaladr,,,
+CF144XW,CF14 4XW,1,1,1,Cardiff 018B,Cardiff and Vale University Health Board,Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,,,
+CF479DT,CF47 9DT,1,0,0,Merthyr Tydfil 008A,Cwm Taf Morgannwg University Health Board,Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,,,
+CF311RQ,CF31 1RQ,1,0,0,Bridgend 011C,Cwm Taf Morgannwg University Health Board,Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,,,
+SY231ER,SY23 1ER,1,0,0,Ceredigion 002A,Hywel Dda University Health Board,Bwrdd Iechyd Prifysgol Hywel Dda,,,
+SA148QF,SA14 8QF,1,0,0,Carmarthenshire 020B,Hywel Dda University Health Board,Bwrdd Iechyd Prifysgol Hywel Dda,,,
+SA312AF,SA31 2AF,1,0,0,Carmarthenshire 007D,Hywel Dda University Health Board,Bwrdd Iechyd Prifysgol Hywel Dda,,,
+SA612PZ,SA61 2PZ,1,0,0,Pembrokeshire 005D,Hywel Dda University Health Board,Bwrdd Iechyd Prifysgol Hywel Dda,,,
+SA66NL,SA6 6NL,1,0,0,Swansea 003F,Swansea Bay University Health Board,Bwrdd Iechyd Prifysgol Bae Abertawe,,,
+NP202UB,NP20 2UB,0,0,0,,,,,,
