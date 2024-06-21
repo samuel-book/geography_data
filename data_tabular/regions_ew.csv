@@ -1,114 +1,121 @@
-LOC22CD,LOC22NM,ICB22CD,ICB22NM,LHB20CD,LHB20NM,LHB20NMW,ISDN
-E38000068,NHS Cheshire and Merseyside ICB - 01F,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000194,NHS Cheshire and Merseyside ICB - 02E,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000233,NHS Cheshire and Merseyside ICB - 27D,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000091,NHS Cheshire and Merseyside ICB - 01J,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000101,NHS Cheshire and Merseyside ICB - 99A,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000172,NHS Cheshire and Merseyside ICB - 01X,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000161,NHS Cheshire and Merseyside ICB - 01T,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000170,NHS Cheshire and Merseyside ICB - 01V,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000208,NHS Cheshire and Merseyside ICB - 12F,E54000008,NHS Cheshire and Merseyside Integrated Care Board,,,,Cheshire and Merseyside
-E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,,,,North Midlands
-E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,,,,North Midlands
-E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,,,,North Midlands
-E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,,,,North Midlands
-E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,,,,North Midlands
-E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,,,,North Midlands
-E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",,,,North Midlands
-E38000238,NHS Lincolnshire ICB - 71E,E54000013,NHS Lincolnshire Integrated Care Board,,,,East Midlands
-E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",,,,East Midlands
-E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",,,,East Midlands
-E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",,,,East Midlands
-E38000251,NHS Coventry and Warwickshire ICB - B2M3M,E54000018,NHS Coventry and Warwickshire Integrated Care Board,,,,West Midlands
-E38000236,NHS Herefordshire and Worcestershire ICB - 18C,E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,,,,West Midlands
-E38000239,NHS Norfolk and Waveney ICB - 26A,E54000022,NHS Norfolk and Waveney Integrated Care Board,,,,East of England (North)
-E38000117,NHS Suffolk and North East Essex ICB - 06T,E54000023,NHS Suffolk and North East Essex Integrated Care Board,,,,East of England (North)
-E38000086,NHS Suffolk and North East Essex ICB - 06L,E54000023,NHS Suffolk and North East Essex Integrated Care Board,,,,East of England (North)
-E38000204,NHS Suffolk and North East Essex ICB - 07K,E54000023,NHS Suffolk and North East Essex Integrated Care Board,,,,East of England (North)
-E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",,,,East of England (South)
-E38000197,NHS Hertfordshire and West Essex ICB - 07H,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,,,,East of England (South)
-E38000049,NHS Hertfordshire and West Essex ICB - 06K,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,,,,East of England (South)
-E38000079,NHS Hertfordshire and West Essex ICB - 06N,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,,,,East of England (South)
-E38000168,NHS Mid and South Essex ICB - 99G,E54000026,NHS Mid and South Essex Integrated Care Board,,,,East of England (South)
-E38000185,NHS Mid and South Essex ICB - 07G,E54000026,NHS Mid and South Essex Integrated Care Board,,,,East of England (South)
-E38000007,NHS Mid and South Essex ICB - 99E,E54000026,NHS Mid and South Essex Integrated Care Board,,,,East of England (South)
-E38000106,NHS Mid and South Essex ICB - 06Q,E54000026,NHS Mid and South Essex Integrated Care Board,,,,East of England (South)
-E38000030,NHS Mid and South Essex ICB - 99F,E54000026,NHS Mid and South Essex Integrated Care Board,,,,East of England (South)
-E38000256,NHS North West London ICB - W2U3Z,E54000027,NHS North West London Integrated Care Board,,,,London
-E38000240,NHS North Central London ICB - 93C,E54000028,NHS North Central London Integrated Care Board,,,,London
-E38000255,NHS North East London ICB - A3A8R,E54000029,NHS North East London Integrated Care Board,,,,London
-E38000244,NHS South East London ICB - 72Q,E54000030,NHS South East London Integrated Care Board,,,,London
-E38000245,NHS South West London ICB - 36L,E54000031,NHS South West London Integrated Care Board,,,,London
-E38000237,NHS Kent and Medway ICB - 91Q,E54000032,NHS Kent and Medway Integrated Care Board,,,,Kent and Medway
-E38000252,NHS Frimley ICB - D4U1Y,E54000034,NHS Frimley Integrated Care Board,,,,Frimley ICS
-E38000089,NHS Cornwall and the Isles of Scilly ICB - 11N,E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,,,,"Devon, Cornwall and Isles of Scilly"
-E38000230,NHS Devon ICB - 15N,E54000037,NHS Devon Integrated Care Board,,,,"Devon, Cornwall and Isles of Scilly"
-E38000150,NHS Somerset ICB - 11X,E54000038,NHS Somerset Integrated Care Board,,,,"Gloucester, BSW, BNSSG and Somerset"
-E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",,,,"Gloucester, BSW, BNSSG and Somerset"
-E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",,,,"Gloucester, BSW, BNSSG and Somerset"
-E38000045,NHS Dorset ICB - 11J,E54000041,NHS Dorset Integrated Care Board,,,,Wessex
-E38000137,NHS Hampshire and Isle of Wight ICB - 10R,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,,,,Wessex
-E38000253,NHS Hampshire and Isle of Wight ICB - D9Y0V,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,,,,Wessex
-E38000062,NHS Gloucestershire ICB - 11M,E54000043,NHS Gloucestershire Integrated Care Board,,,,"Gloucester, BSW, BNSSG and Somerset"
-E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",,,,Thames Valley
-E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",,,,Thames Valley
-E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",,,,Thames Valley
-E38000014,NHS Lancashire and South Cumbria ICB - 00Q,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000015,NHS Lancashire and South Cumbria ICB - 00R,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000228,NHS Lancashire and South Cumbria ICB - 01K,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000050,NHS Lancashire and South Cumbria ICB - 01A,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000034,NHS Lancashire and South Cumbria ICB - 00X,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000226,NHS Lancashire and South Cumbria ICB - 02M,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000227,NHS Lancashire and South Cumbria ICB - 01E,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000200,NHS Lancashire and South Cumbria ICB - 02G,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,,,,Lancashire and South Cumbria
-E38000247,NHS North East and North Cumbria ICB - 16C,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000234,NHS North East and North Cumbria ICB - 84H,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000130,NHS North East and North Cumbria ICB - 00L,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000215,NHS North East and North Cumbria ICB - 01H,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000212,NHS North East and North Cumbria ICB - 13T,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000127,NHS North East and North Cumbria ICB - 99C,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000163,NHS North East and North Cumbria ICB - 00N,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000176,NHS North East and North Cumbria ICB - 00P,E54000050,NHS North East and North Cumbria Integrated Care Board,,,,North East and Cumbria
-E38000085,NHS Humber and North Yorkshire ICB - 03F,E54000051,NHS Humber and North Yorkshire Integrated Care Board,,,,Humber Coast and Vale
-E38000052,NHS Humber and North Yorkshire ICB - 02Y,E54000051,NHS Humber and North Yorkshire Integrated Care Board,,,,Humber Coast and Vale
-E38000188,NHS Humber and North Yorkshire ICB - 03Q,E54000051,NHS Humber and North Yorkshire Integrated Care Board,,,,Humber Coast and Vale
-E38000119,NHS Humber and North Yorkshire ICB - 03H,E54000051,NHS Humber and North Yorkshire Integrated Care Board,,,,Humber Coast and Vale
-E38000122,NHS Humber and North Yorkshire ICB - 03K,E54000051,NHS Humber and North Yorkshire Integrated Care Board,,,,Humber Coast and Vale
-E38000241,NHS Humber and North Yorkshire ICB - 42D,E54000051,NHS Humber and North Yorkshire Integrated Care Board,,,,Humber Coast and Vale
-E38000246,NHS Surrey Heartlands ICB - 92A,E54000052,NHS Surrey Heartlands Integrated Care Board,,,,Frimley ICS
-E38000021,NHS Sussex ICB - 09D,E54000053,NHS Sussex Integrated Care Board,,,,Sussex
-E38000235,NHS Sussex ICB - 97R,E54000053,NHS Sussex Integrated Care Board,,,,Sussex
-E38000248,NHS Sussex ICB - 70F,E54000053,NHS Sussex Integrated Care Board,,,,Sussex
-E38000232,NHS West Yorkshire ICB - 36J,E54000054,NHS West Yorkshire Integrated Care Board,,,,West Yorkshire and Harrogate
-E38000025,NHS West Yorkshire ICB - 02T,E54000054,NHS West Yorkshire Integrated Care Board,,,,West Yorkshire and Harrogate
-E38000254,NHS West Yorkshire ICB - X2C4Y,E54000054,NHS West Yorkshire Integrated Care Board,,,,West Yorkshire and Harrogate
-E38000225,NHS West Yorkshire ICB - 15F,E54000054,NHS West Yorkshire Integrated Care Board,,,,West Yorkshire and Harrogate
-E38000190,NHS West Yorkshire ICB - 03R,E54000054,NHS West Yorkshire Integrated Care Board,,,,West Yorkshire and Harrogate
-E38000258,NHS Birmingham and Solihull ICB - 15E,E54000055,NHS Birmingham and Solihull Integrated Care Board,,,,West Midlands
-E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,,,,East of England (South)
-E38000016,NHS Greater Manchester ICB - 00T,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000024,NHS Greater Manchester ICB - 00V,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000217,NHS Greater Manchester ICB - 14L,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000135,NHS Greater Manchester ICB - 00Y,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000080,NHS Greater Manchester ICB - 01D,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000143,NHS Greater Manchester ICB - 01G,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000174,NHS Greater Manchester ICB - 01W,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000263,NHS Greater Manchester ICB - 01Y,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000187,NHS Greater Manchester ICB - 02A,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000205,NHS Greater Manchester ICB - 02H,E54000057,NHS Greater Manchester Integrated Care Board,,,,Greater Manchester
-E38000261,NHS Derby and Derbyshire ICB - 15M,E54000058,NHS Derby and Derbyshire Integrated Care Board,,,,East Midlands
-E38000262,NHS Northamptonshire ICB - 78H,E54000059,NHS Northamptonshire Integrated Care Board,,,,East Midlands
-E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,,,,East Midlands
-E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,,,,East Midlands
-E38000006,NHS South Yorkshire ICB - 02P,E54000061,NHS South Yorkshire Integrated Care Board,,,,South Yorkshire
-E38000044,NHS South Yorkshire ICB - 02X,E54000061,NHS South Yorkshire Integrated Care Board,,,,South Yorkshire
-E38000141,NHS South Yorkshire ICB - 03L,E54000061,NHS South Yorkshire Integrated Care Board,,,,South Yorkshire
-E38000146,NHS South Yorkshire ICB - 03N,E54000061,NHS South Yorkshire Integrated Care Board,,,,South Yorkshire
-E38000259,NHS Black Country ICB - D2P2L,E54000062,NHS Black Country Integrated Care Board,,,,North Midlands
-,,,,W11000023,Betsi Cadwaladr University Health Board,Bwrdd Iechyd Prifysgol Betsi Cadwaladr,
-,,,,W11000024,Powys Teaching Health Board,Bwrdd Iechyd Addysgu Powys,
-,,,,W11000025,Hywel Dda University Health Board,Bwrdd Iechyd Prifysgol Hywel Dda,
-,,,,W11000031,Swansea Bay University Health Board,Bwrdd Iechyd Prifysgol Bae Abertawe,
-,,,,W11000030,Cwm Taf Morgannwg University Health Board,Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,
-,,,,W11000028,Aneurin Bevan University Health Board,Bwrdd Iechyd Prifysgol Aneurin Bevan,
-,,,,W11000029,Cardiff and Vale University Health Board,Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,
+RGN11NM,CTRY11NM,LHB20CD,LHB20NM,LHB20NMW,LOC22CD,LOC22NM,ICB22CD,ICB22NM,ISDN,ambulance_service
+North East,England,,,,E38000247,NHS North East and North Cumbria ICB - 16C,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+North West,England,,,,E38000068,NHS Cheshire and Merseyside ICB - 01F,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000194,NHS Cheshire and Merseyside ICB - 02E,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000014,NHS Lancashire and South Cumbria ICB - 00Q,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+North West,England,,,,E38000015,NHS Lancashire and South Cumbria ICB - 00R,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+Yorkshire and The Humber,England,,,,E38000085,NHS Humber and North Yorkshire ICB - 03F,E54000051,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale,Yorkshire
+Yorkshire and The Humber,England,,,,E38000052,NHS Humber and North Yorkshire ICB - 02Y,E54000051,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale,Yorkshire
+Yorkshire and The Humber,England,,,,E38000188,NHS Humber and North Yorkshire ICB - 03Q,E54000051,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale,Yorkshire
+Yorkshire and The Humber,England,,,,E38000119,NHS Humber and North Yorkshire ICB - 03H,E54000051,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale,East Midlands
+Yorkshire and The Humber,England,,,,E38000122,NHS Humber and North Yorkshire ICB - 03K,E54000051,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale,East Midlands
+East Midlands,England,,,,E38000261,NHS Derby and Derbyshire ICB - 15M,E54000058,NHS Derby and Derbyshire Integrated Care Board,East Midlands,East Midlands
+East Midlands,England,,,,E38000097,"NHS Leicester, Leicestershire and Rutland ICB - 04C",E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",East Midlands,East Midlands
+East Midlands,England,,,,E38000243,NHS Nottingham and Nottinghamshire ICB - 52R,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,East Midlands,East Midlands
+East Midlands,England,,,,E38000051,"NHS Leicester, Leicestershire and Rutland ICB - 03W",E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",East Midlands,East Midlands
+West Midlands,England,,,,E38000236,NHS Herefordshire and Worcestershire ICB - 18C,E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,West Midlands,West Midlands
+West Midlands,England,,,,E38000257,"NHS Shropshire, Telford and Wrekin ICB - M2L0M",E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",North Midlands,West Midlands
+West Midlands,England,,,,E38000175,NHS Staffordshire and Stoke-on-Trent ICB - 05W,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands,West Midlands
+South West,England,,,,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset",South West
+South West,England,,,,E38000222,"NHS Bristol, North Somerset and South Gloucestershire ICB - 15C",E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset",South West
+South West,England,,,,E38000230,NHS Devon ICB - 15N,E54000037,NHS Devon Integrated Care Board,"Devon, Cornwall and Isles of Scilly",South West
+South West,England,,,,E38000045,NHS Dorset ICB - 11J,E54000041,NHS Dorset Integrated Care Board,Wessex,South West
+East of England,England,,,,E38000260,NHS Cambridgeshire and Peterborough ICB - 06H,E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,East of England (South),East of England
+East of England,England,,,,E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",East of England (South),East of England
+East of England,England,,,,E38000168,NHS Mid and South Essex ICB - 99G,E54000026,NHS Mid and South Essex Integrated Care Board,East of England (South),East of England
+East of England,England,,,,E38000185,NHS Mid and South Essex ICB - 07G,E54000026,NHS Mid and South Essex Integrated Care Board,East of England (South),East of England
+South East,England,,,,E38000237,NHS Kent and Medway ICB - 91Q,E54000032,NHS Kent and Medway Integrated Care Board,Kent and Medway,South East Coast
+South East,England,,,,E38000252,NHS Frimley ICB - D4U1Y,E54000034,NHS Frimley Integrated Care Board,Frimley ICS,South East Coast
+South East,England,,,,E38000221,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 15A",E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Thames Valley,South Central
+South East,England,,,,E38000249,"NHS Bedfordshire, Luton and Milton Keynes ICB - M1J4Y",E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",East of England (South),South Central
+South East,England,,,,E38000021,NHS Sussex ICB - 09D,E54000053,NHS Sussex Integrated Care Board,Sussex,South East Coast
+South East,England,,,,E38000137,NHS Hampshire and Isle of Wight ICB - 10R,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex,South Central
+South East,England,,,,E38000253,NHS Hampshire and Isle of Wight ICB - D9Y0V,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex,South Central
+South East,England,,,,E38000253,NHS Hampshire and Isle of Wight ICB - D9Y0V,E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,Wessex,Isle of Wight
+North East,England,,,,E38000234,NHS North East and North Cumbria ICB - 84H,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+North West,England,,,,E38000233,NHS Cheshire and Merseyside ICB - 27D,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+South West,England,,,,E38000089,NHS Cornwall and the Isles of Scilly ICB - 11N,E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,"Devon, Cornwall and Isles of Scilly",South West
+South West,England,,,,E38000089,NHS Cornwall and the Isles of Scilly ICB - 11N,E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,"Devon, Cornwall and Isles of Scilly",
+North East,England,,,,E38000130,NHS North East and North Cumbria ICB - 00L,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+South East,England,,,,E38000223,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 14Y",E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Thames Valley,South Central
+North West,England,,,,E38000215,NHS North East and North Cumbria ICB - 01H,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North West
+North West,England,,,,E38000228,NHS Lancashire and South Cumbria ICB - 01K,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+East Midlands,England,,,,E38000261,NHS Derby and Derbyshire ICB - 15M,E54000058,NHS Derby and Derbyshire Integrated Care Board,East Midlands,North West
+South East,England,,,,E38000235,NHS Sussex ICB - 97R,E54000053,NHS Sussex Integrated Care Board,Sussex,South East Coast
+East of England,England,,,,E38000007,NHS Mid and South Essex ICB - 99E,E54000026,NHS Mid and South Essex Integrated Care Board,East of England (South),East of England
+East of England,England,,,,E38000106,NHS Mid and South Essex ICB - 06Q,E54000026,NHS Mid and South Essex Integrated Care Board,East of England (South),East of England
+East of England,England,,,,E38000030,NHS Mid and South Essex ICB - 99F,E54000026,NHS Mid and South Essex Integrated Care Board,East of England (South),East of England
+East of England,England,,,,E38000117,NHS Suffolk and North East Essex ICB - 06T,E54000023,NHS Suffolk and North East Essex Integrated Care Board,East of England (North),East of England
+East of England,England,,,,E38000197,NHS Hertfordshire and West Essex ICB - 07H,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,East of England (South),East of England
+South West,England,,,,E38000062,NHS Gloucestershire ICB - 11M,E54000043,NHS Gloucestershire Integrated Care Board,"Gloucester, BSW, BNSSG and Somerset",South West
+East of England,England,,,,E38000049,NHS Hertfordshire and West Essex ICB - 06K,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,East of England (South),East of England
+East of England,England,,,,E38000079,NHS Hertfordshire and West Essex ICB - 06N,E54000025,NHS Hertfordshire and West Essex Integrated Care Board,East of England (South),East of England
+North West,England,,,,E38000050,NHS Lancashire and South Cumbria ICB - 01A,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+North West,England,,,,E38000034,NHS Lancashire and South Cumbria ICB - 00X,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+North West,England,,,,E38000226,NHS Lancashire and South Cumbria ICB - 02M,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+North West,England,,,,E38000227,NHS Lancashire and South Cumbria ICB - 01E,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+North West,England,,,,E38000200,NHS Lancashire and South Cumbria ICB - 02G,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+East Midlands,England,,,,E38000201,"NHS Leicester, Leicestershire and Rutland ICB - 04V",E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",East Midlands,East Midlands
+East Midlands,England,,,,E38000238,NHS Lincolnshire ICB - 71E,E54000013,NHS Lincolnshire Integrated Care Board,East Midlands,East Midlands
+East of England,England,,,,E38000239,NHS Norfolk and Waveney ICB - 26A,E54000022,NHS Norfolk and Waveney Integrated Care Board,East of England (North),East of England
+East Midlands,England,,,,E38000262,NHS Northamptonshire ICB - 78H,E54000059,NHS Northamptonshire Integrated Care Board,East Midlands,East Midlands
+East Midlands,England,,,,E38000262,NHS Northamptonshire ICB - 78H,E54000059,NHS Northamptonshire Integrated Care Board,East Midlands,East of England
+Yorkshire and The Humber,England,,,,E38000241,NHS Humber and North Yorkshire ICB - 42D,E54000051,NHS Humber and North Yorkshire Integrated Care Board,Humber Coast and Vale,Yorkshire
+Yorkshire and The Humber,England,,,,E38000232,NHS West Yorkshire ICB - 36J,E54000054,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate,Yorkshire
+Yorkshire and The Humber,England,,,,E38000228,NHS Lancashire and South Cumbria ICB - 01K,E54000048,NHS Lancashire and South Cumbria Integrated Care Board,Lancashire and South Cumbria,North West
+East Midlands,England,,,,E38000008,NHS Nottingham and Nottinghamshire ICB - 02Q,E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,East Midlands,East Midlands
+South East,England,,,,E38000136,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB - 10Q",E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",Thames Valley,South Central
+South East,England,,,,E38000231,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB - 92G",E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board","Gloucester, BSW, BNSSG and Somerset",South West
+South West,England,,,,E38000150,NHS Somerset ICB - 11X,E54000038,NHS Somerset Integrated Care Board,"Gloucester, BSW, BNSSG and Somerset",South West
+West Midlands,England,,,,E38000028,NHS Staffordshire and Stoke-on-Trent ICB - 04Y,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands,West Midlands
+West Midlands,England,,,,E38000053,NHS Staffordshire and Stoke-on-Trent ICB - 05D,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands,West Midlands
+West Midlands,England,,,,E38000153,NHS Staffordshire and Stoke-on-Trent ICB - 05Q,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands,West Midlands
+West Midlands,England,,,,E38000126,NHS Staffordshire and Stoke-on-Trent ICB - 05G,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands,West Midlands
+West Midlands,England,,,,E38000173,NHS Staffordshire and Stoke-on-Trent ICB - 05V,E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,North Midlands,West Midlands
+East of England,England,,,,E38000086,NHS Suffolk and North East Essex ICB - 06L,E54000023,NHS Suffolk and North East Essex Integrated Care Board,East of England (North),East of England
+East of England,England,,,,E38000204,NHS Suffolk and North East Essex ICB - 07K,E54000023,NHS Suffolk and North East Essex Integrated Care Board,East of England (North),East of England
+South East,England,,,,E38000246,NHS Surrey Heartlands ICB - 92A,E54000052,NHS Surrey Heartlands Integrated Care Board,Frimley ICS,South East Coast
+West Midlands,England,,,,E38000251,NHS Coventry and Warwickshire ICB - B2M3M,E54000018,NHS Coventry and Warwickshire Integrated Care Board,West Midlands,West Midlands
+South East,England,,,,E38000248,NHS Sussex ICB - 70F,E54000053,NHS Sussex Integrated Care Board,Sussex,South East Coast
+North West,England,,,,E38000016,NHS Greater Manchester ICB - 00T,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000024,NHS Greater Manchester ICB - 00V,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000217,NHS Greater Manchester ICB - 14L,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000135,NHS Greater Manchester ICB - 00Y,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000080,NHS Greater Manchester ICB - 01D,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000143,NHS Greater Manchester ICB - 01G,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000174,NHS Greater Manchester ICB - 01W,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000263,NHS Greater Manchester ICB - 01Y,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000187,NHS Greater Manchester ICB - 02A,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000205,NHS Greater Manchester ICB - 02H,E54000057,NHS Greater Manchester Integrated Care Board,Greater Manchester,North West
+North West,England,,,,E38000091,NHS Cheshire and Merseyside ICB - 01J,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000101,NHS Cheshire and Merseyside ICB - 99A,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000172,NHS Cheshire and Merseyside ICB - 01X,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000170,NHS Cheshire and Merseyside ICB - 01V,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000161,NHS Cheshire and Merseyside ICB - 01T,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+North West,England,,,,E38000208,NHS Cheshire and Merseyside ICB - 12F,E54000008,NHS Cheshire and Merseyside Integrated Care Board,Cheshire and Merseyside,North West
+Yorkshire and The Humber,England,,,,E38000006,NHS South Yorkshire ICB - 02P,E54000061,NHS South Yorkshire Integrated Care Board,South Yorkshire,Yorkshire
+Yorkshire and The Humber,England,,,,E38000044,NHS South Yorkshire ICB - 02X,E54000061,NHS South Yorkshire Integrated Care Board,South Yorkshire,Yorkshire
+Yorkshire and The Humber,England,,,,E38000141,NHS South Yorkshire ICB - 03L,E54000061,NHS South Yorkshire Integrated Care Board,South Yorkshire,Yorkshire
+Yorkshire and The Humber,England,,,,E38000146,NHS South Yorkshire ICB - 03N,E54000061,NHS South Yorkshire Integrated Care Board,South Yorkshire,Yorkshire
+North East,England,,,,E38000212,NHS North East and North Cumbria ICB - 13T,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+North East,England,,,,E38000127,NHS North East and North Cumbria ICB - 99C,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+North East,England,,,,E38000163,NHS North East and North Cumbria ICB - 00N,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+North East,England,,,,E38000176,NHS North East and North Cumbria ICB - 00P,E54000050,NHS North East and North Cumbria Integrated Care Board,North East and Cumbria,North East
+West Midlands,England,,,,E38000258,NHS Birmingham and Solihull ICB - 15E,E54000055,NHS Birmingham and Solihull Integrated Care Board,West Midlands,West Midlands
+West Midlands,England,,,,E38000259,NHS Black Country ICB - D2P2L,E54000062,NHS Black Country Integrated Care Board,North Midlands,West Midlands
+Yorkshire and The Humber,England,,,,E38000025,NHS West Yorkshire ICB - 02T,E54000054,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate,Yorkshire
+Yorkshire and The Humber,England,,,,E38000254,NHS West Yorkshire ICB - X2C4Y,E54000054,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate,Yorkshire
+Yorkshire and The Humber,England,,,,E38000225,NHS West Yorkshire ICB - 15F,E54000054,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate,Yorkshire
+Yorkshire and The Humber,England,,,,E38000190,NHS West Yorkshire ICB - 03R,E54000054,NHS West Yorkshire Integrated Care Board,West Yorkshire and Harrogate,Yorkshire
+London,England,,,,E38000255,NHS North East London ICB - A3A8R,E54000029,NHS North East London Integrated Care Board,London,London
+London,England,,,,E38000240,NHS North Central London ICB - 93C,E54000028,NHS North Central London Integrated Care Board,London,London
+London,England,,,,E38000244,NHS South East London ICB - 72Q,E54000030,NHS South East London Integrated Care Board,London,London
+London,England,,,,E38000256,NHS North West London ICB - W2U3Z,E54000027,NHS North West London Integrated Care Board,London,London
+London,England,,,,E38000245,NHS South West London ICB - 36L,E54000031,NHS South West London Integrated Care Board,London,London
+Wales,Wales,W11000023,Betsi Cadwaladr University Health Board,Bwrdd Iechyd Prifysgol Betsi Cadwaladr,,,,,,Welsh
+Wales,Wales,W11000025,Hywel Dda University Health Board,Bwrdd Iechyd Prifysgol Hywel Dda,,,,,,Welsh
+Wales,Wales,W11000031,Swansea Bay University Health Board,Bwrdd Iechyd Prifysgol Bae Abertawe,,,,,,Welsh
+Wales,Wales,W11000030,Cwm Taf Morgannwg University Health Board,Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg,,,,,,Welsh
+Wales,Wales,W11000029,Cardiff and Vale University Health Board,Bwrdd Iechyd Prifysgol Caerdydd a’r Fro,,,,,,Welsh
+Wales,Wales,W11000028,Aneurin Bevan University Health Board,Bwrdd Iechyd Prifysgol Aneurin Bevan,,,,,,Welsh
+Wales,Wales,W11000024,Powys Teaching Health Board,Bwrdd Iechyd Addysgu Powys,,,,,,Welsh
